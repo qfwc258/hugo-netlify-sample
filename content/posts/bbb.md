@@ -1,9 +1,7 @@
 ---
-layout: blog
-title: bbb
-date: 2017-08-04T19:34:24.299Z
-thumbnail: /images/uploads/hanabi.jpg
-rating: '1'
+title: My third Post
+date: 2017-08-04T15:26:32.000Z
 draft: false
+thumbnail: /images/sample.jpg
 ---
 あああ
