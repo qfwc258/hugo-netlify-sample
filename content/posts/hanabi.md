@@ -1,5 +1,5 @@
 ---
-title: hanabi
+title: 花火
 description: 花火大会の写真
 date: 2017-08-05T04:40:59.130Z
 thumbnail: /images/uploads/hanabi.jpg
@@ -15,3 +15,4 @@ tags:
 サムネイルの写真はぱくたそです。
 
 [ぱくたそ](https://www.pakutaso.com/)
+
